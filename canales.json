@@ -94,5 +94,47 @@
         "m3u8_url": "https://scl.edge.grupoz.cl/planetatvkids/live/chunklist_w1187675112.m3u8",
         "fuente": "https://planetatv.cl/",
         "pais": "cl"
+   },
+    "supertv": {
+        "nombre": "supertv",
+        "m3u8_url": "https://stmv5.voxtvhd.com.br/supertv/supertv/chunklist_w568970849.m3u8",
+        "fuente": "https://latinartv.com/",
+        "pais": "cl"
+   },
+     "Retro Play TV": {
+        "nombre": "Retro Play TV",
+        "m3u8_url": "https://v4.tustreaming.cl/retroplaytv/index.m3u8",
+        "fuente": "https://latinartv.com/",
+        "pais": "cl"
+   },
+    "TV EnPlacilla": {
+        "nombre": "TV EnPlacilla",
+        "m3u8_url": "https://panel.tvstream.cl:1936/8038/8038/playlist.m3u8",
+        "fuente": "https://enplacilla.cl/",
+        "pais": "cl"
+   },
+     "+Cine": {
+        "nombre": "+Cine",
+        "m3u8_url": "https://tv.streaming-chile.com:1936/8142/8142/+Cine.m3u8",
+        "fuente": "https://latinartv.com/",
+        "pais": "cl"
+   },
+    "Infinita TV Premium": {
+        "nombre": "Infinita TV Premium",
+        "m3u8_url": "https://s2.tvdatta.com:3753/hybrid/play.m3u8",
+        "fuente": "https://latinartv.com/",
+        "pais": "cl"
+   },
+    "Fight Night TV": {
+        "nombre": "Fight Night TV",
+        "m3u8_url": "https://manifests.vivalivetv.com/livehttporigin_vivalivelive/2060/amlst:mainstream/chunklist_b5636182.m3u8?op_id=0&userId=0&channelId=2060&stime=1697671005&etime=1697757405&token=09b8e2fda42c30ee601e9&p=livecdn",
+        "fuente": "https://www.vivalivetv.com/channel/fight-night-tv-1",
+        "pais": "cl"
+   },
+     "PlanetaTV Kids": {
+        "nombre": "PlanetaTV Kids",
+        "m3u8_url": "https://tls-cl.cdnz.cl/planetatvkids/live/playlist.m3u8",
+        "fuente": "https://planetatv.cl/",
+        "pais": "cl"
    }
 }
