@@ -136,5 +136,11 @@
         "m3u8_url": "https://tls-cl.cdnz.cl/planetatvkids/live/playlist.m3u8",
         "fuente": "https://planetatv.cl/",
         "pais": "cl"
+   },
+    "Series Retro": {
+        "nombre": "Series Retro",
+        "m3u8_url": "chrome-extension://hahkjjkedonglpienpfiganogikkkoii/player.html#https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/hls/channel/5de802659167b10009e7deba/3063648/playlist.m3u8?terminate=false&sid=0ee5d45b-6e0e-11ee-a0bc-16a00e8c568f&deviceDNT=0&deviceLat=-8.1191&deviceLon=-79.0355&deviceModel=web&deviceVersion=118.0.0&includeExtendedEvents=true&appName=web&DRMCapabilities=widevine&deviceId=383decf6-c160-47cd-bcbf-3989619d2efc&appVersion=7.7.0-18f7ab32608969ea5bcbce8d0e23b9d0e1b24717&deviceType=web&deviceMake=chrome&jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6ImM1NjgwM2JkLWNhMjUtNDM3Zi1iN2ViLWEyZTFhNzBlZDgxYSIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiIwZWU1ZDQ1Yi02ZTBlLTExZWUtYTBiYy0xNmEwMGU4YzU2OGYiLCJjbGllbnRJUCI6IjE5MC4yMzkuMTkyLjE1OCIsImNpdHkiOiJUcnVqaWxsbyIsInBvc3RhbENvZGUiOiIiLCJjb3VudHJ5IjoiUEUiLCJkbWEiOjAsImFjdGl2ZVJlZ2lvbiI6IlZFIiwiZGV2aWNlTGF0IjotOC4xMTkxLCJkZXZpY2VMb24iOi03OS4wMzU1LCJwcmVmZXJyZWRMYW5ndWFnZSI6ImVzIiwiZGV2aWNlVHlwZSI6IndlYiIsImRldmljZVZlcnNpb24iOiIxMTguMC4wIiwiZGV2aWNlTWFrZSI6ImNocm9tZSIsImRldmljZU1vZGVsIjoid2ViIiwiYXBwTmFtZSI6IndlYiIsImFwcFZlcnNpb24iOiI3LjcuMC0xOGY3YWIzMjYwODk2OWVhNWJjYmNlOGQwZTIzYjlkMGUxYjI0NzE3IiwiY2xpZW50SUQiOiIzODNkZWNmNi1jMTYwLTQ3Y2QtYmNiZi0zOTg5NjE5ZDJlZmMiLCJjbUF1ZGllbmNlSUQiOiIiLCJpc0NsaWVudEROVCI6ZmFsc2UsInVzZXJJRCI6IiIsImxvZ0xldmVsIjoiREVGQVVMVCIsInRpbWVab25lIjoiQW1lcmljYS9MaW1hIiwic2VydmVyU2lkZUFkcyI6ZmFsc2UsImUyZUJlYWNvbnMiOmZhbHNlLCJmZWF0dXJlcyI6eyJpc1N0aXRjaGVyRWtzIjp0cnVlLCJtdWx0aVBvZEFkcyI6eyJlbmFibGVkIjp0cnVlfX0sImRybSI6eyJuYW1lIjoid2lkZXZpbmUiLCJsZXZlbCI6IkwzIn0sImlzcyI6ImJvb3QucGx1dG8udHYiLCJzdWIiOiJwcmk6djE6cGx1dG86ZGV2aWNlczpWRTpNemd6WkdWalpqWXRZekUyTUMwME4yTmtMV0pqWW1ZdE16azRPVFl4T1dReVpXWmoiLCJhdWQiOiIqLnBsdXRvLnR2IiwiZXhwIjoxNjk3NzU4MTE1LCJpYXQiOjE2OTc2NzE3MTUsImp0aSI6ImZhZDI4NjA2LTY3OGItNDMxNC04NzcyLTgyYzgxYjFkYmVlZiJ9.OQRG-kVDpwVQby6UkMoXN25ZUqfnJN5lxEIdCwzZ3RI&CMCD=mtp%3D6400%2Cot%3Dm%2Csf%3Dh%2Csid%3D%2255eebc9f-7a7b-477f-9227-fa58f420c78f",
+        "fuente": "https://latinartv.com/",
+        "pais": "cl"
    }
 }
