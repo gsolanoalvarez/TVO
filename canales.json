@@ -64,5 +64,35 @@
         "m3u8_url": "https://tv.streaming-chile.com:1936/ngencrcbyy/ngencrcbyy/playlist.m3u8",
         "fuente": "https://www.facebook.com/MonitvMoniquira",
         "pais": "cl"
+   },
+    "Retroxtv": {
+        "nombre": "Retroxtv",
+        "m3u8_url": "https://cageu.bozztv.com/ssh101/ssh101/123456789/chunks.m3u8",
+        "fuente": "https://retroxtv.com/",
+        "pais": "cl"
+   },
+    "Wow tv": {
+        "nombre": "Wow tv",
+        "m3u8_url": "https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/chunklist_w1967377238_b2000000_slen.m3u8",
+        "fuente": "https://wowelsalvador.com/",
+        "pais": "cl"
+   },
+    "Terror TV": {
+        "nombre": "Terror TV",
+        "m3u8_url": "https://tv.streaming-chile.com:1936/8140/8140/playlist.m3u8",
+        "fuente": "https://terrortv.com/",
+        "pais": "cl"
+   },
+     "PlanetaTV Movies": {
+        "nombre": "PlanetaTV Movies",
+        "m3u8_url": "https://scl.edge.grupoz.cl/movie/live/movie.m3u8",
+        "fuente": "https://planetatv.cl/",
+        "pais": "cl"
+   },
+    "PlanetaTV family": {
+        "nombre": "PlanetaTV family",
+        "m3u8_url": "https://scl.edge.grupoz.cl/planetatvkids/live/chunklist_w1187675112.m3u8",
+        "fuente": "https://planetatv.cl/",
+        "pais": "cl"
    }
 }
