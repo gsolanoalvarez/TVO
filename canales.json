@@ -1,13 +1,62 @@
 {
-    "Pandamx": {
-        "nombre": "24 horas",
-        "yt_id": "UCTXNz3gjAypWp3EhlIATEJQ",
-        "pais": "cl"
-    },
     "Pandamax": {
         "nombre": "Pandamax",
         "m3u8_url": "https://stream.wifiexpert.cl/telenorte/pandamaxch/chunks.m3u8",
         "fuente": "https://www.twitch.tv/pandamaxlive",
         "pais": "cl"
-   }
+   },
+    "Varied tv": {
+        "nombre": "Varied tv",
+        "m3u8_url": "https://6362ca6f1fc28.streamlock.net/8066/8066/chunklist_w431651067.m3u8",
+        "fuente": "https://www.variedtv.online/",
+        "pais": "cl"
+   },
+     "Dreiko tv": {
+        "nombre": "Dreiko tv",
+        "m3u8_url": "https://cloudvideo.servers10.com:8081/8138/tracks-v1a1/mono.m3u8",
+        "fuente": "https://www.dreikotv.com/",
+        "pais": "cl"
+   },
+    "Orbit tv": {
+        "nombre": "Orbit tv",
+        "m3u8_url": "https://ss3.domint.net:3134/otv_str/orbittv/chunklist_w611011848.m3u8",
+        "fuente": "https://orbitcable.com.do/",
+        "pais": "cl"
+   },
+    "Latino kids": {
+        "nombre": "Latino kids",
+        "m3u8_url": "https://6362ca6f1fc28.streamlock.net/8062/8062/chunklist_w1512966197.m3u8",
+        "fuente": "https://www.latinokids.online/",
+        "pais": "cl"
+   },
+    "Spectrum Channel": {
+        "nombre": "Spectrum Channel",
+        "m3u8_url": "https://panel.miplay.cl:8081/spectrumchannel/index.m3u8",
+        "fuente": "https://spectrumtv.cl/",
+        "pais": "cl"
+   },
+      "Mega cine": {
+        "nombre": "Mega cine",
+        "m3u8_url": "https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8",
+        "fuente": "https://megacinetv.net/",
+        "pais": "cl"
+   },
+    "Fanpop TV": {
+        "nombre": "Fanpop TV",
+        "m3u8_url": "https://wifispeed.trapemn.tv:1936/infantil/energeek-2/playlist.m3u8",
+        "fuente": "https://energeek.cl/en-vivo",
+        "pais": "cl"
+   },
+    "EnerGeek": {
+        "nombre": "EnerGeek",
+        "m3u8_url": "https://wifispeed.trapemn.tv:1936/infantil/energeek-1/playlist.m3u8",
+        "fuente": "https://energeek.cl/en-vivo",
+        "pais": "cl"
+   },
+    "EnerGeek": {
+        "nombre": "EnerGeek",
+        "m3u8_url": "https://wifispeed.trapemn.tv:1936/infantil/energeek-1/playlist.m3u8",
+        "fuente": "https://energeek.cl/en-vivo",
+        "pais": "cl"
+   },
 }
