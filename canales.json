@@ -58,5 +58,11 @@
         "m3u8_url": "https://wifispeed.trapemn.tv:1936/infantil/energeek-1/playlist.m3u8",
         "fuente": "https://energeek.cl/en-vivo",
         "pais": "cl"
+   },
+    "Monitv": {
+        "nombre": "Moni tv",
+        "m3u8_url": "https://tv.streaming-chile.com:1936/ngencrcbyy/ngencrcbyy/playlist.m3u8",
+        "fuente": "https://www.facebook.com/MonitvMoniquira",
+        "pais": "cl"
    }
 }
