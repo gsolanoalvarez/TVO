@@ -1,7 +1,7 @@
 {
-    "Cinecanal": {
-        "nombre": "Cinecanal",
-        "m3u8_url": "https://cdn3.eco.cdn.moderntv.eu/econocable/stream/CINECANALHD/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DCINECANALHD_stream_1m&_cdn_session=1364120539&_cdn_timestamp=1699198758&_cdn_token=a48e7e465d92be99c6abd831c97b40380f6d0b7c",
+    "Pandamax": {
+        "nombre": "Pandamax",
+        "m3u8_url": "https://player.twitch.tv/?channel=pandamaxlive&parent=neotv.cl",
         "fuente": "https://www.twitch.tv/pandamaxlive",
         "pais": "cl"
    },
