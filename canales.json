@@ -1,7 +1,7 @@
 {
     "Pandamax": {
         "nombre": "Pandamax",
-        "m3u8_url": "https://player.twitch.tv/?channel=pandamaxlive&parent=neotv.cl",
+        "m3u8_url": "https://stream.wifiexpert.cl/telenorte/pandamaxch/chunks.m3u8",
         "fuente": "https://www.twitch.tv/pandamaxlive",
         "pais": "cl"
    },
